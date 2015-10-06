@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+D:\JavaTraining_Putrych\SE_01\2\.metadata\.plugins\org.eclipse.jdt.core
+258600309.index
+2964027421.index
+1858142822.index
+3067970664.index
+2632885671.index
+3155551615.index
+1661038418.index
+603172322.index
+1427135439.index
+3519594249.index
+1498119669.index
+3562728176.index
+1645482218.index
+271386153.index
+3500120844.index
+3667761143.index
+849781308.index
+1611500155.index
+1743211892.index
+2817151153.index

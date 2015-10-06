@@ -1,0 +1,15 @@
+package by.epam.grodno.java.ap.Task2;
+
+public class MassiveIntegers {
+	public static void main(String[] args){
+		int a[], b[], j, i, k = 20;  // i - indexes, k - massive length
+		a = new int[k];
+		b = new int[k-1];
+		for (i=0; i < k; i++){
+			a[i] = i*2;
+			for (j = 0; j < k-1; j++)
+				b[j] = a[i]*a[i+1];
+			    System.out.print(b[j] + " ");	 
+	}
+}
+	}
